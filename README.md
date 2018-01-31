@@ -15,3 +15,4 @@ MODIFICACIÓN EXTRAÑA 5000
 
 modificación maestra 5000
 
+editacion ninja 3
